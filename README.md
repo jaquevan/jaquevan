@@ -19,13 +19,16 @@
 
 </div>
 
+<div align="center">
+  
 # 💻 Other Technologies:
+  
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vim,bash,git,py,html,java,js,ts&theme=dark" />
   </a>
 </p>
-
+</div>
 <div align="center">
 
 # 📊 GitHub Stats:
