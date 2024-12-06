@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Next.JS & MUI
 - 📫 How to reach me - jaquevan@bu.edu
 
-### 🚀 Tech Stack:
+## 🚀 Tech Stack:
 
-#### 🌐 Front-End:
+# 🌐 Front-End:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
