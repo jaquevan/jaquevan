@@ -10,7 +10,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,styledcomponents,mui,figma,jest,eslint,git,vim,bash,py,java&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,styledcomponents,mui,figma,jest,git,vim,bash,py,java&theme=light" />
 </p>
 
 ---
