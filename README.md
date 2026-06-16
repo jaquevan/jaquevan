@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=7000&color=D08770&center=true&vCenter=true&repeat=false&width=460&lines=UX+Research+Intern+%40+Red+Hat+AI" alt="Typing SVG" /></a>
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=7000&color=88C0D0&center=true&vCenter=true&repeat=false&width=460&lines=UX+Research+Intern+%40+Red+Hat+AI" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/redhat/EE0000" width="70" alt="Red Hat" />
+  <img src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg" width="200" alt="Red Hat" />
 </p>
 
 <p align="center">
