@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg" width="200" alt="Red Hat" />
+  <img src="./redhat-logo.svg" width="200" alt="Red Hat" />
 </p>
 
 <p align="center">
