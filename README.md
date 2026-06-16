@@ -29,8 +29,6 @@
   Raleigh, NC
 </p>
 
-Conducting generative and evaluative UX research for Red Hat's AI platform products. Running usability studies, synthesizing user feedback, and translating findings into design recommendations that shape how developers and data scientists interact with OpenShift AI.
-
 ---
 
 <p align="center">
