@@ -1,6 +1,8 @@
-# Evan Jaquez
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d2021,50:fe8019,100:fabd2f&height=180&section=header&text=Evan%20Jaquez&fontSize=42&fontColor=ebdbb2&animation=fadeIn&fontAlignY=35" width="100%" alt="header" />
 
-CS + Economics · Data Science Minor · Boston University 2026
+<p align="center">
+  CS + Economics · Data Science Minor · Boston University 2026
+</p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FABD2F&center=true&vCenter=true&width=500&lines=UX+Research+%40+Red+Hat+AI;Building+for+developers+%26+data+scientists;Design+%E2%86%92+Research+%E2%86%92+Impact" alt="Typing SVG" /></a>
@@ -12,9 +14,7 @@ CS + Economics · Data Science Minor · Boston University 2026
   <a href="mailto:jaquevan@bu.edu"><img src="https://img.shields.io/badge/jaquevan@bu.edu-1d2021?style=flat-square&logo=gmail&logoColor=ebdbb2" alt="Email" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/evan-jaquez-118b5b294/"><img src="https://img.shields.io/badge/LinkedIn-1d2021?style=flat-square&logo=linkedin&logoColor=ebdbb2" alt="LinkedIn" /></a>
-</p>
-
-<p align="center">
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=jaquevan&style=flat-square&color=fe8019&label=visitors" alt="Profile Views" />
 </p>
 
@@ -44,3 +44,5 @@ Conducting generative and evaluative UX research for Red Hat's AI platform produ
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaquevan/jaquevan/output/snake.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/jaquevan/jaquevan/output/snake-dark.svg" width="100%">
 </picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fabd2f,50:fe8019,100:1d2021&height=120&section=footer" width="100%" alt="footer" />
