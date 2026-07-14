@@ -31,12 +31,6 @@
 
 ---
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaquevan&theme=nord_dark" width="95%" alt="Profile Details" />
-</p>
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaquevan/jaquevan/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaquevan/jaquevan/output/snake.svg">
