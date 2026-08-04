@@ -21,10 +21,6 @@
 ---
 
 <p align="center">
-  <img src="./redhat-logo.svg" width="200" alt="Red Hat" />
-</p>
-
-<p align="center">
   <strong>UX Research Intern @ Red Hat AI</strong><br>
   Raleigh, NC
 </p>
