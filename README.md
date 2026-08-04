@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=7000&color=88C0D0&center=true&vCenter=true&repeat=false&width=460&lines=UX+Research+Intern+%40+Red+Hat+AI" alt="Typing SVG" /></a>
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=7000&color=88C0D0&center=true&vCenter=true&repeat=false&width=460&lines=UX+Researcher+%40+Red+Hat+OpenshiftAI" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -18,14 +18,6 @@
   <img src="https://komarev.com/ghpvc/?username=jaquevan&style=flat-square&color=D08770&label=visitors" alt="Profile Views" />
 </p>
 
----
-
-<p align="center">
-  <strong>UX Research Intern @ Red Hat AI</strong><br>
-  Raleigh, NC
-</p>
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaquevan/jaquevan/output/snake-dark.svg">
