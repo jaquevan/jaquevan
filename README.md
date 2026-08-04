@@ -5,7 +5,19 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=7000&color=88C0D0&center=true&vCenter=true&repeat=false&width=460&lines=UX+Researcher+%40+Red+Hat+Openshift+AI" alt="Typing SVG" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=7000&color=88C0D0&center=true&vCenter=true&repeat=false&width=520&lines=UX+Researcher+%40+Red+Hat+OpenShift+AI">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=7000&color=2E3440&center=true&vCenter=true&repeat=false&width=520&lines=UX+Researcher+%40+Red+Hat+OpenShift+AI">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=7000&color=88C0D0&center=true&vCenter=true&repeat=false&width=520&lines=UX+Researcher+%40+Red+Hat+OpenShift+AI" alt="UX Researcher @ Red Hat OpenShift AI" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./redhat-logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./redhat-logo.svg">
+    <img src="./redhat-logo.svg" width="200" alt="Red Hat" />
+  </picture>
 </p>
 
 <p align="center">
